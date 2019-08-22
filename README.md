@@ -1,0 +1,2 @@
+# FileTransferApp
+A multi-threaded Client Server Socket program written in C to provide facility for file transfer from local client machines to main server file storage. Application uses Role-Based Access Controls based on Linux Group membership of client application users. Synchronisation is handled using Mutex Locks. File auditing is provided using Linux Auditd as well as messages queues and Syslog components. 
